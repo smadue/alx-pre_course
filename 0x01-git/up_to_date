@@ -1,1 +1,1 @@
-git clone https://{personal access token}@{github url}
+git pull https://github.com/victorvenk/alx-pre_course.git
